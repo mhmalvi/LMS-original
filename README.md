@@ -1,3 +1,6 @@
+<!-- repo-card -->
+![LMS-original](docs/assets/social-card.png)
+
 # LMS Platform
 
 A comprehensive Learning Management System built with Laravel, featuring live video conferencing, SMS notifications, multi-gateway payments, and a full REST API for mobile and third-party integrations.
